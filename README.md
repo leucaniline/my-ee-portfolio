@@ -1,6 +1,6 @@
 # My Electrical Engineering Portfolio
 
-This project is a personal portfolio website designed to showcase electrical engineering projects and host essays in both text and LaTeX formats. The application is built using Python and Flask, providing a simple and effective way to present your work.
+This project is a personal portfolio website designed to showcase engineering projects and host essays in LaTeX formats. The application is built using Python and Flask, providing a simple and effective way to present your work.
 
 ## Project Structure
 
