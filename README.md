@@ -33,8 +33,7 @@ my-ee-portfolio
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/yourusername/my-ee-portfolio.git
-   cd my-ee-portfolio
+   git clone (https://github.com/leucaniline/my-ee-portfolio)
    ```
 
 2. **Install the required dependencies:**
